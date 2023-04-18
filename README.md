@@ -34,10 +34,7 @@ yarn run lint
 ### 项目集锦
 ```
 1. vant改装日历组件
-2. vant的Tabs组件切换onload失效
-3. H5跳转小程序
-4. H5与小程序联合登录
-5. 数字和汉字不同字号的底部对齐
+2. H5跳转小程序
 ```
 
 ### Customize configuration
